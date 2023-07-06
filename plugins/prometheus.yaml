@@ -12,5 +12,3 @@ plugins:
   - grpcs
   - http
   - https
-  tags:
-
