@@ -4,7 +4,7 @@ plugins:
     custom_fields_by_lua: {}
     flush_timeout: 2
     headers: {}
-    http_endpoint: http://filebeat.monitoring:9000
+    http_endpoint: http://filebeat.observability:9000
     keepalive: 60000
     method: POST
     queue_size: 1
